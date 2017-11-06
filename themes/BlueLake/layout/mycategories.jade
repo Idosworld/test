@@ -1,0 +1,10 @@
+extends base
+
+block title
+  title=page.title
+block content
+  .post
+  h1.post-title=page.title
+    .post-contend
+      .tagcloud
+        != list_categories({min_font: 15, max_font: 15, amount: 100, orderby: 'count'})

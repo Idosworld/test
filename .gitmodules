@@ -1,0 +1,24 @@
+[submodule "themes/okcjs"]
+	path = themes/okcjs
+	url = https://github.com/techlahoma/hexo-theme-okcjs.git
+[submodule "iceman"]
+	path = iceman
+	url = https://github.com/wizicer/iceman.git
+[submodule "catman"]
+	path = catman
+	url = https://github.com/leaf-hsiao/catman.git
+[submodule "hexo-theme-daisy"]
+	path = hexo-theme-daisy
+	url = https://github.com/imbyron/hexo-theme-daisy.git
+[submodule "hexo-theme-Anatole"]
+	path = hexo-theme-Anatole
+	url = https://github.com/Ben02/hexo-theme-Anatole.git
+[submodule "hexo-theme-formula"]
+	path = hexo-theme-formula
+	url = https://github.com/bubkoo/hexo-theme-formula.git
+[submodule "hexo-jade-starter"]
+	path = hexo-jade-starter
+	url = https://github.com/widatama/hexo-jade-starter.git
+[submodule "hexo-theme-BlueLake"]
+	path = hexo-theme-BlueLake
+	url = https://github.com/chaooo/hexo-theme-BlueLake.git
